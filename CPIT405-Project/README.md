@@ -1,5 +1,5 @@
-# ToDo app
-A simple todo app written in PHP and uses PostgreSQL as a database to store todo items. This is a CRUD app (Create, Retrieve, Update, and Delete) in PHP using the database-independent PDO extension.
+# CPIT405-Project
+Giphy API app that fetchs data from Giphy website and store the search history into a database.
 
 
 ## Usage
